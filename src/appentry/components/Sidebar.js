@@ -1,4 +1,4 @@
-import { Layout,Menu, Divider, Switch } from "antd";
+import { Layout,Menu } from "antd";
 import React, { useState } from "react";
 import {
   AppstoreOutlined,

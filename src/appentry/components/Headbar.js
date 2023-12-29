@@ -1,6 +1,5 @@
 import { Layout } from "antd";
 import React from "react";
-import { useSelector } from "react-redux";
 
 const {Header} = Layout;
 const Headbar = () => {
